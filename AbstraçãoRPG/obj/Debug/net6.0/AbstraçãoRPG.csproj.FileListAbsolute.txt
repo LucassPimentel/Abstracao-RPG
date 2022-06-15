@@ -1,0 +1,15 @@
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\bin\Debug\net6.0\AbstraçãoRPG.exe
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\bin\Debug\net6.0\AbstraçãoRPG.deps.json
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\bin\Debug\net6.0\AbstraçãoRPG.runtimeconfig.json
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\bin\Debug\net6.0\AbstraçãoRPG.dll
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\bin\Debug\net6.0\AbstraçãoRPG.pdb
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\AbstraçãoRPG.csproj.AssemblyReference.cache
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\AbstraçãoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\AbstraçãoRPG.AssemblyInfoInputs.cache
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\AbstraçãoRPG.AssemblyInfo.cs
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\AbstraçãoRPG.csproj.CoreCompileInputs.cache
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\AbstraçãoRPG.dll
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\refint\AbstraçãoRPG.dll
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\AbstraçãoRPG.pdb
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\AbstraçãoRPG.genruntimeconfig.cache
+C:\Users\lupdsilva\source\repos\AbstraçãoRPG\AbstraçãoRPG\obj\Debug\net6.0\ref\AbstraçãoRPG.dll
